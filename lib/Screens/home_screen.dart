@@ -64,7 +64,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             fontSize: 28, fontWeight: FontWeight.bold),
                       ),
                       Text(
-                        'Speak the Andandi languge\nLike a true nubian! ',
+                        'Speak Andandi languge\nLike a true nubian! ',
                         style: TextStyle(
                           fontSize: 16,
                           fontWeight: FontWeight.w500,
